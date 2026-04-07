@@ -1,5 +1,5 @@
 {
-  "name": "ai-seed",
+  "name": "@lxgicstudios/ai-seed",
   "version": "1.0.0",
   "description": "AI-powered database seeder - realistic test data with GPT",
   "main": "dist/index.js",
