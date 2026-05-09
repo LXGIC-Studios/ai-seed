@@ -15,30 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "seed",
-    "database",
-    "fake-data",
-    "testing",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
-    "prisma",
-    "mock"
+    "claude",
+    "cli",
+    "database",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "fake-data",
+    "generative-ai",
+    "gpt",
+    "llm",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seed",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-seed#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-seed"
+    "url": "https://github.com/LXGIC-Studios/ai-seed"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-seed/issues"
