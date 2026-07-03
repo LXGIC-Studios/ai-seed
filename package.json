@@ -39,7 +39,9 @@
     "development",
     "testing",
     "site-architecture",
-    "internal-linking"
+    "internal-linking",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
