@@ -8,14 +8,14 @@
     "ai-seed": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-seed/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
     "openai": "^4.73.0",
     "ora": "^5.4.1"
   },
-  "description": "AI-powered database seeder - realistic test data with GPT",
+  "description": "Generate realistic database seed data from your schema definitions. AI-powered data generation for PostgreSQL, MySQL, SQLite. Works with Prisma, Drizzle, Knex.",
   "devDependencies": {
     "typescript": "^5.6.0",
     "@types/node": "^22.0.0"
@@ -31,17 +31,35 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-seed",
+  "homepage": "https://github.com/LXGIC-Studios/ai-seed",
   "keywords": [
-    "database-seed",
+    "database",
     "seed-data",
+    "mock-data",
+    "schema",
+    "postgresql",
+    "mysql",
+    "sqlite",
+    "prisma",
+    "\"ai\"",
+    "\"automation\"",
+    "\"cli\"",
+    "\"developer-tools\"",
+    "\"npx\"",
+    "\"typescript\"",
+    "\"nodejs\"",
+    "\"openai\"",
+    "\"anthropic\"",
+    "\"claude\"",
+    "\"cursor\"",
+    "\"gpt\"",
+    "\"copilot\"",
+    "\"devtools\"",
+    "\"vibe-coding\"",
+    "database-seed",
     "fixtures",
     "development",
-    "testing",
-    "site-architecture",
-    "internal-linking",
-    "seo-optimized",
-    "clawdbot"
+    "testing"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -52,8 +70,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-seed"
+    "url": "git+https://github.com/LXGIC-Studios/ai-seed.git"
   },
   "scripts": {
     "build": "tsc"
